@@ -7,9 +7,9 @@
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
+LINK DO E-BOOK: https://drive.google.com/open?id=12s9OoN88-o3CGf3NsXWhVKK4uE4_b-x2&usp=drive_fs
 ## 🧠 Prompts
 
 
